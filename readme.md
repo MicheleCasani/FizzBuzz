@@ -9,4 +9,8 @@ scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
 proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 Buon lavoro e buon divertimento! 
 
-
+- Eseguo il ciclo con i numeri che vanno da 1 a 100
+- Controllo che i numeri siano multipli sia di 3 che di 5 e applichiamo "FizzBuzz"
+- Se cosi non fosse controllo che il numero sia multiplo di 3 e applichiamo "Fizz"
+- Se cosi non fosse controllo che il numero sia multiplo di 5 e applichiamo "Buzz"
+- Se tutte queste possibilità non si verificano allora scriviamo semplicemente il numero del ciclo senza appliccare nessuna nomenclatura
